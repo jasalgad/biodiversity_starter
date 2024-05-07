@@ -1,2 +1,2 @@
 # biodiversity_starter
-New proyecto on Codecademy
+New proyect on Codecademy
